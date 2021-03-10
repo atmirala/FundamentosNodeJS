@@ -1,0 +1,17 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atmirala/FundamentosNodeJS.git",
+  "author": "atmirala <atmirala@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },  
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
